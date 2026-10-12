@@ -15,6 +15,8 @@ in gmod console type bg_help and
 
 when cars load it will lag for some seconds based on the cars model.
 
+Make sure to clean (garrysmod\data\beamgmod\models) after some time.
+
 BeamNG does the car physics, damage and sound. Garry's Mod is the host: it draws the car (from
 BeamNG's node positions), moves your player with it, and gives BeamNG a ground to drive on.
 It reuses BeamNG-side mod (`mccross`).
@@ -82,3 +84,8 @@ BeamNG's world is metres with Z up, the same axes as GMod, so the mapping is onl
 - In game: `bg_status` prints the stage, relay and BeamNG state.
 - Nothing appears in game: open the console, run `bg_status`. `relay=false` means play.bat's relay
   is not running; `connected=false` means BeamNG is not up.
+
+
+![Preview](./crash.jpg)
+
+![Preview](./ingame.jpg)
