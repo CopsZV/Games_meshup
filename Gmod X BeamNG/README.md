@@ -1,6 +1,9 @@
 # Games_meshup
 # BeamGMod: BeamNG.drive cars in Garry's Mod
 
+![Preview](./ingame.jpg)
+
+
 Making garry's mod x BeamNG 
 
 make sure the launcher at steamapps\common\launcher (here)
@@ -87,5 +90,3 @@ BeamNG's world is metres with Z up, the same axes as GMod, so the mapping is onl
 
 
 ![Preview](./crash.jpg)
-
-![Preview](./ingame.jpg)
